@@ -17,7 +17,7 @@
 
      
     
-  <h3 align="center"><a href="https://mohit-weather-app.vercel.app/"><strong>Want to see live preview »</strong></a></h3>
+  <h3 align="center"><a href="https://Zee-weather-app.vercel.app/"><strong>Want to see live preview »</strong></a></h3>
    
     
   <p align="center"> 
@@ -55,20 +55,8 @@ To use the app, type a name of the city and click on search/press Enter or else 
 
 
 
-![Mobile responsive](https://user-images.githubusercontent.com/91532881/166426445-3aeee29c-bca7-4d95-a082-70269bb192fd.png)
-
-![weatherapp](https://user-images.githubusercontent.com/91532881/166334689-ac7807e2-6d40-4a8f-b232-c53955f6ea03.png)
-
-![weatherapp2](https://user-images.githubusercontent.com/91532881/166334796-48e0faa6-3e3c-46e5-9cd1-857da895379d.png)
-
-<br />
-
-## Demo
-
-https://user-images.githubusercontent.com/91532881/166426542-b271be2e-e7d9-4b3c-bfe7-5e9e51e26be4.mp4
 
 
-<br/>
 
 
 ## Getting Started
@@ -146,12 +134,9 @@ npm run dev
 
 ## Contact
 
-If you want to contact me, you can reach me through below handles.
 
-[![linkedin](https://img.shields.io/badge/Mohit_Sehrawat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-sehrawat/)
-[![Twitter](https://img.shields.io/badge/Mohit_Sehrawat-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/m-sehrawat/)
 
-© 2022 Mohit Sehrawat
+© 2022 Zeeshan Maqsood
 
 
 
